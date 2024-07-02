@@ -1,2 +1,2 @@
 console.log('index');
-console.log('v12');
+console.log('v12.2');
