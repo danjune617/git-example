@@ -1,2 +1,2 @@
 console.log('config');
-console.log('v1 updated');
+console.log('v3 updated');
